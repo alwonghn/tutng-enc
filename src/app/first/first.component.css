@@ -1,0 +1,11 @@
+p {
+  background: #ffe9b5; /*pale orange*/
+  border-radius: 4px;
+  font-family: cursive;
+  padding: 1rem;
+}
+
+h3 {
+  color: #a17200; /*brown*/
+  text-align: center;
+}
